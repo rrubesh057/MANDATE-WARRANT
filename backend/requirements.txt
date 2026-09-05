@@ -1,0 +1,4 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
+pytest>=8,<10
+anthropic>=0.40,<1

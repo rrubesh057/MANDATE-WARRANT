@@ -1,0 +1,26 @@
+{
+  "cases": 54,
+  "metrics": {
+    "approved": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "blocked": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "repair_required": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "confusion_matrix": {
+    "approved->approved": 6,
+    "repair_required->repair_required": 24,
+    "blocked->blocked": 24
+  },
+  "dataset_commit": null
+}

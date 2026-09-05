@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.db
+node_modules/
+backend/.deps/
+backend/.test_deps/
+backend/.runtime_deps/
+frontend/dist/
+.env
+.env.*
